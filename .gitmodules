@@ -1,0 +1,3 @@
+[submodule "static/cosmic-web-app"]
+	path = static/cosmic-web-app
+	url = git@github.com:KettleNet/cosmic-web-app.git
